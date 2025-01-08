@@ -5,7 +5,7 @@
 ```json
 {
     "user_id": "",        
-    "total_count": 50,           
+    "total_count": 500,           
     "forum_names": [],
     "BDUSS": "your_BDUSS"             
 }
